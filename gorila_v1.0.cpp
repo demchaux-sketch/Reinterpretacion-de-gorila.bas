@@ -1,3 +1,5 @@
+// ADVERTENCIA: ESTE CODIGO ESTA LLENO DE CHANCHADAS :3
+
 #include <windows.h>
 #include <algorithm>
 #include <cmath>
